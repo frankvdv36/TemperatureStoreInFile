@@ -2,4 +2,4 @@
 # Test tekst
 
 # Afbeelding
-![cat](64pxCat.png)
+!(64pxCat.png)
