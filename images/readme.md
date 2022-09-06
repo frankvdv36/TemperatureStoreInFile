@@ -2,4 +2,4 @@
 # Test tekst
 
 # Afbeelding
-!(github-px64Cat.png)
+![cat](GitHub-px64Cat.png)
