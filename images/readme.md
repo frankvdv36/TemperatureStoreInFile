@@ -2,4 +2,4 @@
 # Test tekst
 
 # Afbeelding
-!(64pxCat.png)
+![katje](64pxCat.png)
