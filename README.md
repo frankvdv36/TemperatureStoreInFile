@@ -14,6 +14,7 @@ Voor dit project zijn dus 3 sensoren nodig.
 
 Deze 3 temperaturen worden samen met datum en tijd opgeslagen in een file op de SD-kaart.
 De file kan steeds opgeladen worden op een laptop en zichtbaar gemaakt in bijvoorbeeld een Exel-file
+Dit gebeurt afstand
 
 ## Software
 Dit programma wordt geschreven in Python3
