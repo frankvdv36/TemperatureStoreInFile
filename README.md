@@ -18,5 +18,11 @@ Dit gebeurt afstand
 
 ## Software
 Dit programma wordt geschreven in Python3
+Bestaat uit drie delen die na elkaar doorlopen worden.
+ - Lees de sendoren uit. 3x SD18B20. Rood voor HEEN, blauw voor TERUG en geel voor buitentemperatuur.
+    Er wordt gebruik gemaakt van ingebouwde 1 wire software in de OS.
+    Neem via internet wordt datum en lokale tijd gevonden als ook de teller die tijd en datum bevat in een getal sinds epoch, 1/1/1970
+ - Display gegevens op scherm. Hiervoor wordt Pygame gebruikt zoals in vorige projecten.
+    Er worden 4 wijzers afgebeeld. Linksboven Temperatuur HEEN, rechtsboven Temperatuur TERUG, linksonder Temperatuur Buiten, rechtsonder verschil temperatuur heen-         terug.   
 
 ## Eigen scripts en programma's
