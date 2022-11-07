@@ -10,7 +10,7 @@ Laat live de temperaturen zien in de vorm van wijzers samen met datum en tijd in
 Dit project heeft een toepassing om bij een CV-installatie de relatie na te gaan van de temperatuur HEEN en TERUG in functie van de BUITEN temperatuur. Het verschil van de eerste twee heeft aan hoeveel de temperatuur gezakt is na het doorlopen van de kring en zegt iets over de gevraagde warmte.
 
 ## Bronnen
-De bronnen worden weer gegeven in het programma MeetDisplayStoreData.py en Plotdata.py
+De bronnen worden weer gegeven in het programma 'MeetDisplayStoreData.py' en 'Plotdata.py'
 
 ## Hardware
 Voor dit project zijn dus 3 sensoren nodig.
