@@ -32,7 +32,7 @@ Met het tweede programma 'PlotData.py' kan alles zichtbaar gemaakt worden in een
 MeetDisplayStoreData.py
 
 Dit programma wordt geschreven in Python3 en bestaat uit drie delen die na elkaar doorlopen worden.
- - Lees de sensoren uit. 3x SD18B20. Rood voor HEEN, blauw voor TERUG en geel voor BUITENtemperatuur.
+ - Lees de 3 sensoren SD18B20 uit. Rood voor HEEN, blauw voor TERUG en geel voor BUITENtemperatuur.
     Er wordt gebruik gemaakt van ingebouwde 1 wire software in de OS.
     Via internet wordt datum en lokale tijd gevonden als ook de teller die tijd en datum bevat in een getal sinds epoch, 1/1/1970
     Indien er een sensor uit valt wordt dit met 'TRY' 'EXCEPT' onderschept en zijn de temperaturen 3x 0°C  
