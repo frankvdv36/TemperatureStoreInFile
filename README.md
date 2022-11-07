@@ -1,6 +1,6 @@
 # MeetDisplayStoreData + PlotData
 
-MeetDisplayStoreData
+MeetDisplayStoreData.py
 
 Meet temperaturen met 3 sensoren DS18B20 en zet data in file op SD. 
 
