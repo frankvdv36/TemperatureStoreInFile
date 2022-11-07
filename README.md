@@ -31,8 +31,7 @@ Met het tweede programma 'PlotData.py' kan alles zichtbaar gemaakt worden in een
 ## Software
 MeetDisplayStoreData.py
 
-Dit programma wordt geschreven in Python3
-Bestaat uit drie delen die na elkaar doorlopen worden.
+Dit programma wordt geschreven in Python3 en bestaat uit drie delen die na elkaar doorlopen worden.
  - Lees de sendoren uit. 3x SD18B20. Rood voor HEEN, blauw voor TERUG en geel voor BUITENtemperatuur.
     Er wordt gebruik gemaakt van ingebouwde 1 wire software in de OS.
     Via internet wordt datum en lokale tijd gevonden als ook de teller die tijd en datum bevat in een getal sinds epoch, 1/1/1970
