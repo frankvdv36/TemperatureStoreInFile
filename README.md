@@ -26,7 +26,7 @@ Formaat 'Datum, Tijd, DatumTijd epoch, Temperatuur Hoog, Temperatuur Laag, Tempe
 
 Iedere dag wordt een andere file gestart. De naam van de file is 'datum.txt' voorbeeld 221102.txt 
 
-Met het tweede programma PlotData.py kan alles zichtbaar gemaakt worden in een grafiek met 4 waarden op de Y-as.
+Met het tweede programma 'PlotData.py' kan alles zichtbaar gemaakt worden in een grafiek met 4 waarden op de Y-as.
 
 ## Software
 MeetDisplayStoreData.py
