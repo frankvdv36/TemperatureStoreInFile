@@ -39,9 +39,13 @@ Bestaat uit drie delen die na elkaar doorlopen worden.
 PlotData.py
 
 Dit programma maakt gebruik van de data die aangemaakt wordt door het vorige programma. Met 'matplotlib' kan eenvoudig mooie grafieken aangemaakt worden.
-Eerste bewerking maakt van iedere lijn in datum.txt die een 'list' is een 2Darray met 'numpy'
-Dan is het mogelijk om alle gegevens af te zonderen. Een array met Datum, Tijd, DatumTijd, TempH, TempL, TempB, TempH-L.
-De laatste 4 worden gebruikt voor de y-as. De x-as zijn de aantal metingen voor die dag. 24 uur x 12 = 288.
+Eerste bewerking maakt van iedere lijn in file 'datum.txt' die een 'list' is een 2Darray met 'numpy'
+Dan worden de gegevens af gezonderd in een 1Darray met Datum, Tijd, DatumTijd, TempH, TempL, TempB, TempH-L.
+De laatste 4 worden gebruikt voor de y-as. De x-as zijn de aantal metingen voor die dag. 24 uur x 12 metingen per uur (288).
+Bij het opstarten vraagt het programma de naam van de file die u wilt bekijken. Dit wordt ingegeven 'YYMMDD' zonder '.txt'
+Na het plotten stopt het programma. Indien het bestand niet bestaat stop het programma ook met de melding 'opnieuw proberen'.
+
+Praktisch loopt het eerste programma op GEANY, het tweede kan dan lopen op Thonny en zal het eerste programma niet hinderen.
 
 
 
