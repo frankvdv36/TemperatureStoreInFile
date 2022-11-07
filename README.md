@@ -24,7 +24,7 @@ Deze 3 temperaturen worden samen met datum en tijd opgeslagen in een file op de 
 
 Formaat 'Datum, Tijd, DatumTijd epoch, Temperatuur Hoog, Temperatuur Laag, Temperatuur Buiten, Temperatuur H-L (verschil)'
 
-Iedere dag wordt een andere file gestart. De naam van de file is de 'datum.txt' voorbeeld 221102.txt 
+Iedere dag wordt een andere file gestart. De naam van de file is 'datum.txt' voorbeeld 221102.txt 
 Met het tweede programma PlotData.py kan alles zichtbaar gemaakt worden in een grafiek met 4 waarden op de Y-as.
 
 ## Software
