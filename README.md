@@ -20,7 +20,8 @@ Iedere dag wordt een andere file gestart. De naam van de file is de datum. Voorb
 Met het tweede programma PlotData.py kan alles zichtbaar gemaakt worden in een grafiek met 4 waarden op de Y-as.
 
 ## Software
-- MeetDisplayStoreData.py
+MeetDisplayStoreData.py
+
 Dit programma wordt geschreven in Python3
 Bestaat uit drie delen die na elkaar doorlopen worden.
  - Lees de sendoren uit. 3x SD18B20. Rood voor HEEN, blauw voor TERUG en geel voor BUITENtemperatuur.
@@ -35,7 +36,12 @@ Bestaat uit drie delen die na elkaar doorlopen worden.
     Dit wordt weg geschreven in file 'datum.txt'. Dit gebeurt iedere 5 minuten. Iedere dag is er dus een andere file.
     Formaat: Datum: YYMMDD, Tijd: HHMMSS, 1667487590 aantal seconden sedert 1/1/70, 4x Temperaturen: XX,X
 
-- PlotData.py
+PlotData.py
+
+Dit programma maakt gebruik van de data die aangemaakt wordt door het vorige programma. Met 'matplotlib' kan eenvoudig mooie grafieken aangemaakt worden.
+Eerste bewerking maakt van iedere lijn in datum.txt die een 'list' is een 2Darray met 'numpy'
+Dan is het mogelijk om alle gegevens af te zonderen. Een array met Datum, Tijd, DatumTijd, TempH, TempL, TempB, TempH-L.
+De laatste 4 worden gebruikt voor de y-as. De x-as zijn de aantal metingen voor die dag. 24 uur x 12 = 288.
 
 
 
