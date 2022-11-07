@@ -1,6 +1,7 @@
 # MeetDisplayStoreData + PlotData
 
 MeetDisplayStoreData
+
 Meet temperaturen met 3x DS18B20 en store in file op SD. Laat live de temperaturen zien in de vorm van wijzers samen met datum en tijd.
 
 ## Beschrijving
