@@ -3,6 +3,7 @@
 MeetDisplayStoreData
 
 Meet temperaturen met 3 sensoren DS18B20 en zet data in file op SD. 
+
 Laat live de temperaturen zien in de vorm van wijzers samen met datum en tijd in 'dashboard'.
 
 ## Beschrijving
