@@ -2,7 +2,7 @@
 
 MeetDisplayStoreData
 
-Meet temperaturen met 3x DS18B20 en store in file op SD. Laat live de temperaturen zien in de vorm van wijzers samen met datum en tijd.
+Meet temperaturen met 3 senbsoren DS18B20 en zet data in file op SD. Laat live de temperaturen zien in de vorm van wijzers samen met datum en tijd in 'dashboard'.
 
 ## Beschrijving
 Dit project heeft een toepassing om bij een CV installatie de relatie na te gaan hoe de temperatuur HEEN en TERUG in functie van de BUITEN temperatuur.
