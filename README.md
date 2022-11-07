@@ -12,6 +12,7 @@ Voor dit project zijn dus 3 sensoren nodig.
 - meet temperatuur aan de ketel op de buis HEEN
 - meet temperatuur aan de ketel op de buis TERUG
 - meet buitentemperatuur
+
 Een module Raspberry Pi 'Zero W2' die werkt op afstand met VNC  
 
 Deze 3 temperaturen worden samen met datum en tijd opgeslagen in een file op de SD-kaart.
